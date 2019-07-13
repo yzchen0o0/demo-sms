@@ -1,8 +1,9 @@
 ## 云平台短信验证码通知短信java/php/.net开发实现
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub stars]()]()
-[![GitHub forks]()]()
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yzchen0o0/demo-sms/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/yzchen0o0/demo-sms.svg?style=social&label=Stars)](https://github.com/yzchen0o0/demo-sms)
+[![GitHub forks](https://img.shields.io/github/forks/yzchen0o0/demo-sms.svg?style=social&label=Fork)](https://github.com/yzchen0o0/demo-sms)
 
 ## 项目初衷
 
@@ -12,10 +13,10 @@
 
 ## Demo
 
-* [Java - maven]()
-* [Java - jar]()
-* [Php]()
-* [.Net]()
+* [Java - maven](https://github.com/yzchen0o0/demo-sms/tree/master/Java/maven)
+* [Java - jar](https://github.com/yzchen0o0/demo-sms/tree/master/Java/jar)
+* [Php](https://github.com/yzchen0o0/demo-sms/tree/master/php)
+* [.Net](https://github.com/yzchen0o0/demo-sms/tree/master/Net)
 
 ## 接口简述
 
