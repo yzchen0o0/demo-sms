@@ -31,6 +31,7 @@ HTTP - GET
 https://{{url}}?appKey={{app_key}}&appSecret={{app_secret}}&phones={{mobile}}&content=【{{sign}}】{{content}}
 ```
 
+
 * 返回值
 ``` json
 {"errorCode":"000000","errorMsg":"提交成功"}

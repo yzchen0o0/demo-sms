@@ -25,7 +25,7 @@ public class SmsUtil {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		String mobile = "18566775162";
+		String mobile = "18566770000";
 		String code = "666666";
 		String body = sendSmsCode(mobile, code);
 		System.out.println(body);
